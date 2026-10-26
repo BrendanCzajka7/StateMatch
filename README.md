@@ -6,7 +6,7 @@ An interactive U.S. state ranking and real-time multiplayer comparison app built
 
 ## Demo
 
-https://github.com/user-attachments/assets/7c2295cf-100c-4091-9532-63d0f1d66065
+https://github.com/user-attachments/assets/b0e3d4f9-9840-4a25-8baf-82298a8c0061
 
 ## About
 
