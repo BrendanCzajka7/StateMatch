@@ -34,3 +34,5 @@ Rooms are stored in memory rather than a database, keeping updates fast and infr
 
 ### Reliability and Session Management
 The backend validates messages, limits request rates, and handles disconnects, room cleanup, and host reassignment. Multiplayer sessions are temporary rather than persisted, favoring simplicity over recovery after server restarts.
+
+Code is currently private
